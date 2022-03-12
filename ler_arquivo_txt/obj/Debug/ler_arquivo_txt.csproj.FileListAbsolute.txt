@@ -1,0 +1,7 @@
+C:\Users\gusta\source\repos\ler_arquivo_txt\ler_arquivo_txt\bin\Debug\ler_arquivo_txt.exe.config
+C:\Users\gusta\source\repos\ler_arquivo_txt\ler_arquivo_txt\bin\Debug\ler_arquivo_txt.exe
+C:\Users\gusta\source\repos\ler_arquivo_txt\ler_arquivo_txt\bin\Debug\ler_arquivo_txt.pdb
+C:\Users\gusta\source\repos\ler_arquivo_txt\ler_arquivo_txt\obj\Debug\ler_arquivo_txt.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\ler_arquivo_txt\ler_arquivo_txt\obj\Debug\ler_arquivo_txt.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ler_arquivo_txt\ler_arquivo_txt\obj\Debug\ler_arquivo_txt.exe
+C:\Users\gusta\source\repos\ler_arquivo_txt\ler_arquivo_txt\obj\Debug\ler_arquivo_txt.pdb
